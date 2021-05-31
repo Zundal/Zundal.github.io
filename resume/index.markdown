@@ -4,7 +4,7 @@ title:  이력서
 ---
 # 이력서
 
-![%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5%20b530e99cf232418a9b6b53399eb9b85d/Screen_Shot_2021-03-22_at_22.02.02.png](%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5%20b530e99cf232418a9b6b53399eb9b85d/Screen_Shot_2021-03-22_at_22.02.02.png)
+![KakaoTalk_Photo_2021-05-31-22-42-58](https://user-images.githubusercontent.com/37681757/120202565-b0dfb800-c261-11eb-96ed-4bcb6250bdb8.jpeg)
 
 # **안정식**
 
