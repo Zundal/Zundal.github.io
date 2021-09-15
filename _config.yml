@@ -1,7 +1,7 @@
 name: GIT 기술 블로그
 baseurl: ""
 url: "https://Zundal.github.io/"
-description: 초보개발자의 깃 블로그
+description: 깔끔코드 개발자의 깃 블로그
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
