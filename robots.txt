@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zundal.github.io/sa-zoo/sitemap.xml
